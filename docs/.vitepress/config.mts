@@ -36,7 +36,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/Bychuhan/RePyPhiRenderer/edit/main/docs/:path',
+      pattern: 'https://github.com/Bychuhan/pypr-docs/edit/main/docs/md/:path',
       text: '在 GitHub 上编辑此页面'
     },
 
