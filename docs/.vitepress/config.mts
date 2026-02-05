@@ -21,6 +21,7 @@ export default defineConfig({
       {
         text: '基础',
         items: [
+          { text: '关于 RePyPhiRenderer', link: '/about'},
           { text: '快速开始', link: '/quick-start' }
         ]
       }
