@@ -31,12 +31,7 @@ uv run python -m src.main
 
 ### 安装依赖
 #### FFmpeg
-- 在[此页面](https://ffmpeg.org/download.html)下载 FFmpeg。
-
-::: tip IMPORTANT
-请在 **Get packages & executable files** 卡片中选择合适的版本安装，**不要下载源代码**。
-:::
-
+- 在[此页面](https://github.com/BtbN/FFmpeg-Builds/releases/tag/latest)下载 FFmpeg。
 - 解压下载的压缩包，选择一种方式安装。
 
 ##### 设置环境变量 (推荐)
