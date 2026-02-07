@@ -21,7 +21,7 @@ export default defineConfig({
       {
         text: '基础',
         items: [
-          { text: '关于 RePyPhiRenderer', link: '/about'},
+          { text: '关于 RePyPhiRenderer', link: '/about' },
           { text: '快速开始', link: '/quick-start' }
         ]
       },
@@ -31,7 +31,7 @@ export default defineConfig({
       {
         text: '其他',
         items: [
-          { text: '糗事集锦', link: '/blunders'}
+          { text: '糗事集锦', link: '/blunders' }
         ]
       }
     ],
