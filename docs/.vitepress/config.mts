@@ -26,7 +26,10 @@ export default defineConfig({
         ]
       },
       {
-        text: '高级'
+        text: '高级',
+        items: [
+          { text: '资源包', link: '/resources' }
+        ]
       },
       {
         text: '其他',
